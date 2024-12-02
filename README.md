@@ -23,13 +23,17 @@ You can use the getBaiduNews method to fetch the latest news from Baidu:
 const getBaiduNews = require('../src/index');
 
 (async () => {
-  const news = await getBaiduNews();
+  const news = await getBaiduNews('Tesla');
   console.log(news);
 })();
 ```
+## Test
+```bash
+npm test
+```
 
-Contributing
+## Contributing
 Please fork the repository, make your changes, and submit a pull request.
 
-License
+## License
 This project is licensed under the MIT License.
