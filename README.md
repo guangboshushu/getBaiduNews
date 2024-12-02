@@ -1,9 +1,13 @@
-# getBaiduNews
+# getBaiduNews - Baidu News API for Testing
 A crawler to fetch Baidu News data
 
-# Baidu News API
+# Baidu News API Demo
 
 A simple Node.js project to get the latest news from Baidu.
+
+You can use the following English description to clarify the usage restrictions for the project:
+**Baidu News API for Testing**  is intended strictly for practice and educational purposes only. It is not allowed to be used for commercial purposes, and any use of this project must comply with relevant laws and regulations. Users are responsible for ensuring their usage adheres to applicable legal and ethical guidelines.
+
 
 ## Installation
 
