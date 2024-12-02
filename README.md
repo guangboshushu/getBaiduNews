@@ -8,15 +8,18 @@ A simple Node.js project to get the latest news from Baidu.
 ## Installation
 
 1. Clone the repository:
+```bash
    git clone  https://github.com/guangboshushu/getBaiduNews.git
 
 2. Change directory
+```bash
   cd <project_folder>
   npm install
   
 ## Usage
 You can use the getBaiduNews method to fetch the latest news from Baidu:
 
+```js
 const { getBaiduNews } = require('./index');
 
 (async () => {

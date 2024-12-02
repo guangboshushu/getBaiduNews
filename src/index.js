@@ -44,7 +44,7 @@ function findParentDivOfH3(html) {
 
 const getBdiduNews = (keyWord) => {
     const _keyWord = encodeURIComponent(keyWord)
-    const cookies = 'here is your cookies'
+    const cookies = 'Here are your cookies if necessary'
     // 设置请求URL
     const url = `https://www.baidu.com/s?rtt=1&bsst=1&cl=2&tn=news&rsv_dl=ns_pc&word=${_keyWord}`;
     // 发起GET请求
@@ -66,7 +66,3 @@ const getBdiduNews = (keyWord) => {
 }
 
 module.exports = getBdiduNews
-
-getBdiduNews('mcu').then(res => {
-    console.log(res)
-})
