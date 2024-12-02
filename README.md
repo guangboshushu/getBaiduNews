@@ -37,7 +37,8 @@ const getBaiduNews = require('../src/index');
   console.log(news);
 })();
 ```
-## Test
+## Testing
+Run the tests with:
 ```bash
 npm test
 ```
