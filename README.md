@@ -16,12 +16,11 @@ You can use the following English description to clarify the usage restrictions 
 ```bash
    git clone  https://github.com/guangboshushu/getBaiduNews.git
 ```
-2. Change directory
+2. Change directory to the project folder:
 ```bash
   cd <project_folder>
-  npm install
 ```  
-3. install
+3. Install dependencies:
 ```  
   npm install
 ```  
