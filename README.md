@@ -21,6 +21,12 @@ You can use the following English description to clarify the usage restrictions 
   cd <project_folder>
   npm install
 ```  
+3. install
+```  
+  npm install
+```  
+
+
 ## Usage
 You can use the getBaiduNews method to fetch the latest news from Baidu:
 
